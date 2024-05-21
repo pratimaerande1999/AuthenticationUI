@@ -1,0 +1,18 @@
+.h2{
+    font-weight: bold;
+    color: #333;
+}
+
+.list-heading{
+    font-size: 24px;
+    font-style: oblique;
+    color: rgb(27, 96, 152);
+}
+
+/* .container-fluid{
+    background-image: url('C:\Users\Deepak.Waman\Downloads\background2.jpg');
+}
+
+#sidebarMenu{
+    background-image: url('C:\Users\Deepak.Waman\Downloads\background2.jpg');
+} */
